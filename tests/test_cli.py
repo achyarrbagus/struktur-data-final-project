@@ -14,7 +14,7 @@ assert 'dibatalkan' in out and 'Antrean kosong' in out
 out = run('4\n1\nA\nI\n1\n4\n1\n2\nB\nJ\n1\n6\n6\n0\n')
 assert 'sudah digunakan' in out and 'tanpa perjalanan' in out
 print('Semua pengujian integrasi lulus.')
-out = run('2\n1\n2\n3\n1\n4\n1\n2\n1\n4\n4\n\nAxe\n \nItem\n99\n4\n6\n0\n')
+out = run('2\n1\n2\n3\n1\n4\n4\n4\n\nAxe\n \nItem\n99\n4\n6\n0\n')
 assert 'Jalur sudah ada' in out and 'Jalur berhasil dihapus' in out
 assert 'Input tidak boleh kosong' in out and 'Lokasi tujuan tidak tersedia' in out
 assert 'tidak ditemukan' in out
