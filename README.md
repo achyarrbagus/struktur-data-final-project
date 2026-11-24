@@ -3,6 +3,7 @@
 Simulasi console pengiriman item terinspirasi Dota 2 untuk mata kuliah Struktur Data.
 
 **Achyar Bagus Pambudi — 103042500020**
+**Annasya Zakira — 103042500072**
 
 Program menggunakan queue linked node buatan sendiri untuk FIFO, graph adjacency matrix dua arah tanpa bobot, dan BFS dengan antrean array untuk rute dengan jumlah jalur paling sedikit. Courier mulai di Base; pengiriman yang tidak memiliki rute tetap berada di depan antrean. Data hanya ada selama program berjalan.
 
