@@ -1,0 +1,3 @@
+courier
+*.o
+.DS_Store
