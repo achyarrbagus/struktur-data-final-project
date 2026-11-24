@@ -5,7 +5,7 @@
 **Nama:** Achyar Bagus Pambudi  
 **NIM:** 103042500020  
 **Mata kuliah:** Struktur Data  
-**Repository:** belum tersedia; isi tautan setelah publikasi.
+**Repository:** https://github.com/achyarrbagus/struktur-data-final-project
 
 ## 1. Pendahuluan
 
