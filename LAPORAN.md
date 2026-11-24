@@ -4,7 +4,11 @@
 
 **Nama:** Achyar Bagus Pambudi  
 **NIM:** 103042500020  
-**Mata kuliah:** Struktur Data  
+  
+**Nama:** Annasya Zakira  
+**NIM:** 103042500072  
+
+**Mata kuliah:** Struktur Data 
 **Repository:** https://github.com/achyarrbagus/struktur-data-final-project
 
 ## 1. Pendahuluan
